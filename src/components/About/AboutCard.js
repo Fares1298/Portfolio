@@ -4,7 +4,7 @@ import { FaMapMarkerAlt, FaBriefcase, FaGraduationCap, FaTools, FaRocket, FaSeed
 
 function AboutCard() {
   return (
-    <Card className="quote-card-view">
+    <Card className="quote-card-view custom-about-card">
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <h1 className="purple">
